@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: student-management-api
+
+#firebase:
+#  project-id: studentapi-81894
+firebase:
+  credentials: C:\firebase\serviceAccountKey.json
